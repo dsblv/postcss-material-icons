@@ -1,0 +1,43 @@
+{
+  "name": "postcss-material-icons",
+  "version": "0.0.0",
+  "description": "PostCSS plugin that imports icons from google's material design icon library",
+  "license": "MIT",
+  "repository": "https://github.com/dsblv/postcss-material-icons",
+  "author": {
+    "name": "Dmitriy Sobolev",
+    "email": "disobolev@icloud.com",
+    "url": "github.com/dsblv"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "opstcss",
+    "postcss-plugin",
+    "css",
+    "replace",
+    "async",
+    "google",
+    "material",
+    "icons",
+    "svg",
+    "base64"
+  ],
+  "dependencies": {
+    "cacha": "^1.0.3",
+    "got": "^6.1.1",
+    "postcss": "^5.0.14",
+    "string-replace-async": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.8.0",
+    "xo": "^0.12.1"
+  }
+}
