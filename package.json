@@ -1,6 +1,6 @@
 {
   "name": "postcss-material-icons",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "PostCSS plugin that imports icons from google's material design icon library",
   "license": "MIT",
   "repository": "https://github.com/dsblv/postcss-material-icons",
